@@ -1,7 +1,9 @@
 # Hello World!
-Hello, my name is ######
+Hi, my name is ######
 
 [My pastebin account](https://pastebin.com/u/phonkanytiu)
+
+[My account on Reddit](https://www.reddit.com/user/phonkanytiu/)
 
 <!---
 Phonkanytiu/Phonkanytiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
