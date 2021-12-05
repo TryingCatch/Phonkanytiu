@@ -5,56 +5,7 @@ Hi, my name is ######
 
 [My account on Reddit](https://www.reddit.com/user/phonkanytiu/)
 
-```python
-print('Hello World!')
-```
-
-```js
-console.log('Hello World!')
-```
-
-```html
-<div>Hello World!<div>
-```
-
-```Bash
-echo "Hello World"
-```
-
-```C++
-#include 
- 
-int main()
-{
-    std::cout << "Hello, world!
-";
-    return 0;
-}
-```
-
-```C#
-using System;
-class Program
-{
-    public static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, world!");
-    }
-}
-```
-
-```C
-#include 
- 
-int main(void)
-{
-    puts("Hello, world!");
-}
-```
-
-```Basic
-PRINT "Hello, world!"
-```
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/750080996002758740)](https://discord.com/users/750080996002758740)
 
 <!---
 Phonkanytiu/Phonkanytiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
