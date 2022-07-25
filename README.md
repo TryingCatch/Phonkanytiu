@@ -1,9 +1,9 @@
 Hi guys
 
 Where programming languages i know:
-- Python
-- JS (a little bit)
-- С++ (learning)
+> Python<br>
+> JS (a little bit)<br>
+> С++ (learning)
 
 You can write to me via [Discord](https://discord.com/users/750080996002758740 "fork#4561") (Only for questions, I don't accept friend requests)
 
