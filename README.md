@@ -1,6 +1,6 @@
 Hi guys
 
-Where programming languages i know:
+Programming languages i know:
 > Python<br>
 > JS (a little bit)<br>
 > С++ (Learning)<br>
