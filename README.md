@@ -3,8 +3,7 @@ Hi guys
 Programming languages i know:
 > Python<br>
 > JS (a little bit)<br>
-> С++ (Learning)<br>
-> ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+> C++ (Learning)<br>
 > C (Learning)<br>
 > NASM (Learning)
 
