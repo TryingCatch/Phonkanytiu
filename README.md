@@ -7,6 +7,8 @@ Programming languages i know:
 > C (Learning)<br>
 > NASM (Learning)
 
+Learning osdev
+
 My primary IDE is [Visual Studio Code](https://github.com/microsoft/vscode)
 
 You can write to me via [Discord](https://discord.com/users/750080996002758740 "fork#4561") (Only for questions, I don't accept friend requests)
