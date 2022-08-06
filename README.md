@@ -8,6 +8,7 @@ Programming languages i know:
 > NASM (Learning)
 
 Learning osdev, http, low-level code
+Listening retrowave music
 
 My primary IDE is [Visual Studio Code](https://github.com/microsoft/vscode)
 
