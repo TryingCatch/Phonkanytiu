@@ -7,7 +7,7 @@ Programming languages i know:
 > C (Learning)<br>
 > NASM (Learning)
 
-Learning osdev, http, low-level code
+Learning osdev, http, low-level code <br>
 Listening retrowave music
 
 My primary IDE is [Visual Studio Code](https://github.com/microsoft/vscode)
