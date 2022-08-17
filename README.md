@@ -1,5 +1,7 @@
 Hello World
 
+i am a bad programmer
+
 Programming languages i know:
 > Python<br>
 > JS (a little bit)<br>
