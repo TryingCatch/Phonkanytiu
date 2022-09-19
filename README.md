@@ -1,7 +1,5 @@
 Hello World!
 
-i am a bad programmer
-
 Programming languages i know:
 > Python<br>
 > JS (a little bit)<br>
@@ -9,7 +7,7 @@ Programming languages i know:
 > C (Learning)<br>
 > NASM (Learning)
 
-Learning osdev, http, low-level code <br>
+Learning osdev, React framework, low-level code <br>
 Listening retrowave music
 
 My primary IDE is [Visual Studio Code](https://github.com/microsoft/vscode) and [Visual Studio](https://visualstudio.microsoft.com)
