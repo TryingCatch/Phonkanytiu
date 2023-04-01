@@ -7,7 +7,7 @@ Programming languages i know:
 > C (Learning)<br>
 > NASM (Learning)
 
-Learning osdev, React framework, low-level code <br>
+Low-level programmer <br>
 
 My primary IDE is [Visual Studio Code](https://github.com/microsoft/vscode) and [Visual Studio](https://visualstudio.microsoft.com)
 
